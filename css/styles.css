@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
 
 .banner-image {
-    background: url('/img/acustica.jpg');
+    background: url('https://cdn.iands.design/sites/default/files/picture/commercial_acoustics.jpg');
     background-size: cover;
 }
 
