@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
 
 .banner-image {
-    background:rgba(3, 17, 66, 1);
+    background: url('/img/acustica.jpg');
     background-size: cover;
 }
 
