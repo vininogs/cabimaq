@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
 
 .banner-image {
-    background-image: url('/img/acustica.jpg');
+    background-image: url('/img/acustica1.jpg');
     background-size: cover;
 }
 
@@ -253,6 +253,7 @@ li {
     background: rgb(5, 26, 121);
     background: linear-gradient(90deg, rgba(5, 26, 121, 1) 0%, rgba(3, 17, 66, 1) 34%, rgba(1, 119, 143, 1) 100%);
     text-transform: uppercase;
+    width: auto;
 }
 
 #call-area .container {
